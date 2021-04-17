@@ -1,5 +1,4 @@
 # aa-jekyll-azure-static-test
-Testing Azure Static Blog
 
 Testing ability to Deploy a Jekyll blog using Azure Static Web App. 
 
